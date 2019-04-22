@@ -1,14 +1,14 @@
 {
-  "name": "feed-reader-testing",
+  "name": "myreads",
   "version": "1.0.0",
-  "description": "'Resources for Udacity Frontend Nanodegree project Feed Reader Testing'",
+  "description": "'Resources for Udacity Frontend Nanodegree project MyReads'",
   "main": "app.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crystal-dawn/udacity-fend-feed-reader-testing-resources.git"
+    "url": "git+https://github.com/crystal-dawn/udacity-fend-myreads-resources.git"
   },
   "keywords": [
     "Udacity",
@@ -25,9 +25,9 @@
   "author": "Crystal Yungwirth",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/crystal-dawn/udacity-fend-feed-reader-testing-resources/issues"
+    "url": "https://github.com/crystal-dawn/udacity-fend-myreads-resources/issues"
   },
-  "homepage": "https://github.com/crystal-dawn/udacity-fend-feed-reader-testing-resources#readme",
+  "homepage": "https://github.com/crystal-dawn/udacity-fend-myreads-resources#readme",
   "dependencies": {
     "@babel/core": "^7.4.3",
     "browser-sync": "^2.26.3",

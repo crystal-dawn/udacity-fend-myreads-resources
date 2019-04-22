@@ -167,6 +167,12 @@ header {
 .criteria:last-child {
   margin-bottom: 5%; }
 
+/* Remove whitespace caused by anchor link */
+.criteria-link {
+  display: block;
+  height: 0;
+}
+
 /****************** Type subsection ******************/
 .type-header {
   font-size: 1.4em;
