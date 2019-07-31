@@ -30,8 +30,24 @@ body {
 header {
   position: fixed;
   z-index: 1;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#2196f3), color-stop(#34a2f7), color-stop(#47aefa), color-stop(#5bbafd), to(#6ec6ff));
-  background-image: linear-gradient(to bottom, #2196f3, #34a2f7, #47aefa, #5bbafd, #6ec6ff);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#2196f3),
+    color-stop(#34a2f7),
+    color-stop(#47aefa),
+    color-stop(#5bbafd),
+    to(#6ec6ff)
+  );
+  background-image: linear-gradient(
+    to bottom,
+    #2196f3,
+    #34a2f7,
+    #47aefa,
+    #5bbafd,
+    #6ec6ff
+  );
 }
 
 .page-header {
@@ -274,5 +290,15 @@ header {
 
   .criteria:last-child {
     margin-bottom: 25%;
+  }
+}
+
+/*******************************************************************************
+                            Edge Sticky Footer
+*******************************************************************************/
+@supports (-ms-ime-align: auto) {
+  .bottom-nav {
+    position: fixed;
+    width: 100%;
   }
 }
