@@ -18,14 +18,14 @@ Sharing is caring! This repo wouldn't be possible without students. Don't be shy
   * [Node.js](https://nodejs.org/en/)
   * [Gulp](https://www.npmjs.com/package/gulp)
   ### Live Editing
-  ..* [Browsersync](https://www.npmjs.com/package/browser-sync)
+  * [Browsersync](https://www.npmjs.com/package/browser-sync)
   ### CSS Optimization
-  ..* [gulp-sass](https://www.npmjs.com/package/gulp-sass)
-  ..* [gulp-watch](https://www.npmjs.com/package/gulp-watch)
-  ..* [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
+  * [gulp-sass](https://www.npmjs.com/package/gulp-sass)
+  * [gulp-watch](https://www.npmjs.com/package/gulp-watch)
+  * [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
   ### Javascript Optimization
-  ..* [gulp-concat](https://www.npmjs.com/package/gulp-concat)
-  ..* [gulp-terser](https://www.npmjs.com/package/gulp-terser)
-  ..* [gulp-babel](https://www.npmjs.com/package/gulp-babel)
-  ..* [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
+  * [gulp-concat](https://www.npmjs.com/package/gulp-concat)
+  * [gulp-terser](https://www.npmjs.com/package/gulp-terser)
+  * [gulp-babel](https://www.npmjs.com/package/gulp-babel)
+  * [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
   * [Jasmine](https://jasmine.github.io/index.html)
